@@ -1,0 +1,6 @@
+My Hobbies
+
+1. Learning Python
+2. Practising Git and GitHub
+3. Learning SQL
+4. Improving my programming skills
