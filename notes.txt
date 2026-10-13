@@ -1,0 +1,3 @@
+Git is a version control system.
+Git tracks changes in files.
+Git commits save snapshots of a project.
