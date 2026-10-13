@@ -1,11 +1,16 @@
 # My Git Practice Repository
 
 ## About Me
-My name is Gaurav soni.
- i'm from khajuraho and i'm B.tech student.
+I am learning software development.
 
- ## my skills
+## My Skills
 - Python
 - SQL
 - Git
 - GitHub
+
+## My Goal
+I want to learn Git and GitHub
+and understand how developers collaborate.
+
+My Git and GitHub practice project.
